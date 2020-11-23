@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Tuwhiri/Scenes/Onboarding/Landing Page.unity
+    guid: 7b17e956ac90e6b46ac1b45211853c87
+  - enabled: 1
+    path: Assets/Tuwhiri/Scenes/Onboarding/Whakamahere.unity
+    guid: db59c7b165ebe2f419888ff512388ba5
+  - enabled: 1
+    path: Assets/Tuwhiri/Scenes/Onboarding/Haereere.unity
+    guid: 797d958b836ac654c8b72885e5553517
+  - enabled: 1
+    path: Assets/Tuwhiri/Scenes/Onboarding/Tuhura.unity
+    guid: fdbbb104de62bf642922e13a3ed2e625
+  - enabled: 1
+    path: Assets/Tuwhiri/Scenes/Onboarding/Kohi.unity
+    guid: 97a50003d498e0149af02d60217e8031
+  - enabled: 1
+    path: Assets/Tuwhiri/Scenes/Main/Login.unity
+    guid: f656235223f7f6744aaa7ea22c8d235c
+  - enabled: 1
+    path: Assets/Tuwhiri/Scenes/Main/Menu.unity
+    guid: a0ac95c093012674980a554608c87fc4
+  - enabled: 1
+    path: Assets/Tuwhiri/Scenes/Main/Plan my Journey.unity
+    guid: 5313c28d805bb9740a58f2db153b40b4
+  - enabled: 1
+    path: Assets/Tuwhiri/Scenes/Main/Account.unity
+    guid: b4969a5341134c745a7f90f75788fc75
+  - enabled: 1
+    path: Assets/Tuwhiri/Scenes/Main/Bug Hunt.unity
+    guid: 1d4939877ec7d7c4f8693fb242e6497b
+  - enabled: 1
+    path: Assets/Tuwhiri/Scenes/Main/Collections.unity
+    guid: 4737963950f82a04abc80d669e7b303b
+  - enabled: 1
+    path: Assets/Tuwhiri/Scenes/Main/Lets Go.unity
+    guid: 0b9888bd9e635c44b830ef2dea0f98b0
+  - enabled: 1
+    path: Assets/Tuwhiri/Scenes/Youtube Video/Youtube Player.unity
+    guid: 7e885db72e79341f4ba2bfe93f865240
+  - enabled: 1
+    path: Assets/Tuwhiri/Scenes/Main/Settings.unity
+    guid: 991b48dcf14134342ad694af12ac285f
+  m_configObjects: {}
