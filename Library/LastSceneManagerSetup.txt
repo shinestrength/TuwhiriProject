@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Tuwhiri/Scenes/Main/Plan my Journey.unity
+- path: Assets/Tuwhiri/Scenes/Onboarding/Landing Page.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
