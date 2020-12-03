@@ -3,9 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-using UnityEditor.UIElements;
-using System;
-
 public class LoadingScreen : MonoBehaviour
 {
     public static LoadingScreen instance;
