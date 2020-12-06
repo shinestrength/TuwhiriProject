@@ -350,7 +350,7 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 224
       Script: {instanceID: 0}
-    Assets/Tuwhiri/Scenes/Main/Plan my Journey.unity:
+    Assets/Tuwhiri/Scenes/Main/Plan My Journey.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -771,13 +771,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12972}
     - Class: 114
-      Script: {instanceID: 15450}
+      Script: {instanceID: 72594}
     - Class: 114
-      Script: {instanceID: 15452}
+      Script: {instanceID: 72596}
     - Class: 114
-      Script: {instanceID: 15454}
+      Script: {instanceID: 72598}
     - Class: 114
-      Script: {instanceID: 15456}
+      Script: {instanceID: 72600}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1276,7 +1276,7 @@ ScriptsOnlyBuild:
   - Assets/Tuwhiri/Scenes/Onboarding/Kohi.unity
   - Assets/Tuwhiri/Scenes/Main/Login.unity
   - Assets/Tuwhiri/Scenes/Main/Menu.unity
-  - Assets/Tuwhiri/Scenes/Main/Plan my Journey.unity
+  - Assets/Tuwhiri/Scenes/Main/Plan My Journey.unity
   - Assets/Tuwhiri/Scenes/Main/Account.unity
   - Assets/Tuwhiri/Scenes/Main/Bug Hunt.unity
   - Assets/Tuwhiri/Scenes/Main/Collections.unity
