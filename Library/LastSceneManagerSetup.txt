@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Tuwhiri/Scenes/Onboarding/Landing Page.unity
+- path: Assets/Tuwhiri/Scenes/Onboarding/Haereere.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
